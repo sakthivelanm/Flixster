@@ -28,7 +28,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Biggest challenge I encountered was syncing the project to GitHub as this is all still quite new to me. I pushed to Github but then it failed, and when I went to undo the version controls I ended up losing it on Android Studio. But I was able to find the source files and reimplement them. 
 
 ### Open-source libraries used
 
