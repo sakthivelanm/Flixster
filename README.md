@@ -27,7 +27,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### Notes
 
-The required user stories were pretty simple to implement. However, I couldn't figure out how to do the bonuses. Applying the glide transformation 
+The required user stories were pretty simple to implement. However, I couldn't figure out how to do the bonuses. Applying the glide transformation would messs up the way the app looked, as it would display the image with a lot of white space and not alligned with the movie overview. This was the case with the other optional sotries as well, I'd be able to figure out a way to do it without affecting app functionality, however it wouldn't look the way I wanted it to.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
