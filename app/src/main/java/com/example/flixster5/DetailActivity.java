@@ -86,4 +86,5 @@ public class DetailActivity extends YouTubeBaseActivity {
             }
         });
     }
+
 }
